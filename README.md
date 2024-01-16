@@ -4,7 +4,7 @@
 
 -  I’m currently working on .Net and Java programming
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact: Pilates and yoga
+- ⚡ Fun fact: Pilates and Yoga
 
   ### Languages and Tools:
 
