@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: Pilates and Yoga
 
-  ### Languages and Tools:
+### Languages and Tools:
 
 <p>
   <a href="https://skillicons.dev">
